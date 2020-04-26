@@ -12,9 +12,9 @@ https://git-scm.com/download
 - [x] Você deseja verificar mudanças feitas no seu projeto
 
 - [x] Você começa uma nova funcionalidade no seu projeto, sem estragar o que já foi feito.
-- [] Você adiciona as novas funcionalidades ao seu projeto em produção
-- [] Você quer deletar a branch da nova funcionalidade, depois de aplicar em seu projeto.
-
+- [x] Você adiciona as novas funcionalidades ao seu projeto em produção
+- [x] Você quer deletar a branch da nova funcionalidade, depois de aplicar em seu projeto.
+ 
 - [] Você quer colocar seu projeto na nuvem.
 
 - [] Você vai pegar um projeto já iniciado, para trabalhar com o time
